@@ -7,7 +7,7 @@ import java.awt.Label;
 
 public class Addition extends Applet {
 	Button b1;
-	TextField t1, t2, t3;
+	TextField t1, t2, t3, t4, t5;
 	Label l1;
 	int a,b,c;
 	public void init() {
